@@ -1,0 +1,74 @@
+.body{
+    background-color:rgb(160, 62, 44);
+}
+
+.write1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.write2{
+    color: grey;
+    text-align: center;
+    font-size: 30px;
+}
+
+.div1{
+  margin: o auto;
+  width: 1000px;
+}
+
+
+
+
+
+
+#h5{
+    text-align: center;
+    color: white;
+    font-size: 100%;
+}
+
+#hvv{
+    text-align: center;
+    color: white;
+    font-size: 100%;
+}
+
+.under{
+    color: white;
+    font-size: 30;
+}
+
+#q{
+    color: white;
+    text-align: center;
+}
+
+.ppa{color: white;
+    text-align: center;
+
+}
+
+.ppb{color: white;
+    text-align: center;
+
+}
+
+#ppaa{
+    color: white;
+    font-size: 20;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text_image{
+    color: white;
+    position: absolute;
+    bottom: 70px;
+    left: 60;
+   
+    font-size:150%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
